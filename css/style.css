@@ -1,0 +1,28 @@
+.info {
+  background: #F5F5F5;
+}
+
+.info .contacto {
+  float: left;
+}
+
+.info .contacto li {
+  border-left: 1px solid #F0F0F0;
+}
+
+.info .redes-sociales {
+  float: right;
+}
+
+.nav-collapse {
+  float: right;
+  display: inline;
+}
+
+.nav-collapse li {
+  display: inline-block;
+}
+
+.navbar {
+  margin-bottom: 0px;
+}

@@ -1,0 +1,23 @@
+.info{
+	background: #F5F5F5;
+	.contacto{
+		float: left;
+		li{
+			border-left:1px solid #F0F0F0;
+		}
+	}
+	.redes-sociales{
+		float: right;
+	}
+}
+.nav-collapse{
+	float: right;
+	display:inline;
+	li{
+		display: inline-block;
+		
+	}
+}
+.navbar{
+	margin-bottom: 0px;
+}
